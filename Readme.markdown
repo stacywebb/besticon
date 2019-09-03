@@ -1,11 +1,11 @@
-# favicon-service (besticon)
+# Icon API service (find-icon)
 
 This is a favicon service:
 
   * Supports `favicon.ico` and `apple-touch-icon.png`
   * Simple URL API
   * Fallback icon generation
-  * Docker image & single binary download
+
 Demo at <https://find-icon.herokuapp.com> 
 
 
