@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/mat/besticon/besticon"
+	"github.com/stacywebb/find-icon/find-icon"
 )
 
 func main() {
